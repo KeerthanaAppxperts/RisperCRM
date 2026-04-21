@@ -9,12 +9,12 @@ const ARROW_SVG = (
 );
 
 const SERVICE_IMAGES = [
-    "/assets/Image/Client.avif",
-    "/assets/Image/Employees.avif",
+    "/assets/Image/Client.jpg",
+    "/assets/Image/Employees.jpg",
     "/assets/Image/Accounts.avif",
     "/assets/Image/Leads.avif",
-    "/assets/Image/Projects.avif",
-    "/assets/Image/Meetings.avif",
+    "/assets/Image/Projects.jpg",
+    "/assets/Image/Meetings.jpg",
 ];
 
 // const SERVICES = [
@@ -31,14 +31,14 @@ const SERVICES = [
     path:"/client-portal",
     title: "Client Portal",
     text: "Provide clients with a seamless platform to access information, track progress, and stay connected with your business in real time.",
-    thumb: "/assets/Image/Client.avif",
+    thumb: "/assets/Image/Client.jpg",
   },
   {
     num: "02",
     path:"/employee-portal",
     title: "Employee Portal",
     text: "Empower your team with a centralized workspace to manage tasks, collaborate efficiently, and streamline daily operations.",
-    thumb: "/assets/Image/Employees.avif",
+    thumb: "/assets/Image/Employees.jpg",
   },
   {
     num: "03",
@@ -59,14 +59,14 @@ const SERVICES = [
     title: "Projects and Tasks",
     path:"/projects-tasks",
     text: "Organize projects with clarity, assign tasks efficiently, and ensure timely delivery with powerful tracking and collaboration features.",
-    thumb: "/assets/Image/Projects.avif",
+    thumb: "/assets/Image/Projects.jpg",
   },
   {
     num: "06",
     title: "Meetings & Chats",
     path:"/meetings-chats",
     text: "Enhance communication with integrated meetings and chat tools that keep your team connected and productive anytime, anywhere.",
-    thumb: "/assets/Image/Meetings.avif",
+    thumb: "/assets/Image/Meetings.jpg",
   },
 ];
 

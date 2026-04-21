@@ -67,7 +67,7 @@ const PROCESS_ITEMS = [
     desc: "Resolve customer issues instantly with dedicated relationship managers and real-time chat support.",
   },
   {
-    img: "/assets/Image/Key5.jpeg",
+    img: "/assets/Images/Key5.jpeg",
     alt: "Client Retention",
     title: "02. Boost Client Retention",
     metaText: "Personalized Experience",
@@ -99,7 +99,7 @@ const PROCESS_ITEMS = [
     desc: "Use client health data to identify opportunities for upselling and offering additional services.",
   },
   {
-    img: "/assets/Images/Key12.jpeg",
+    img: "/assets/Images/Key12.avif",
     alt: "Brand Reputation",
     title: "06. Build a Premium Reputation",
     metaText: "Customer Experience",

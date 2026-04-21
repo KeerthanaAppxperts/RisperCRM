@@ -9,12 +9,12 @@ const ARROW_SVG = (
 );
 
 const SERVICE_IMAGES = [
-    "/assets/Image/Asset1.avif",
-    "/assets/Image/Asset2.avif",
-    "/assets/Image/Asset3.avif",
-    "/assets/Image/Asset4.avif",
-    "/assets/Image/Asset5.avif",
-    "/assets/Image/Asset6.avif",
+    "/assets/Image/Asset1.jpg",
+    "/assets/Image/Asset2.jpg",
+    "/assets/Image/Asset3.jpg",
+    "/assets/Image/Asset4.jpg",
+    "/assets/Image/Asset5.jpg",
+    "/assets/Image/Asset6.jpg",
 ];
 
 // const SERVICES = [
@@ -30,37 +30,37 @@ const SERVICES = [
     num: "01",
     title: "Centralized Asset Directory",
     text: "Catalog computers, printers, tools, and equipment in one searchable place for easy tracking and management.",
-    thumb: "/assets/Image/Asset1.avif",
+    thumb: "/assets/Image/Asset1.jpg",
   },
   {
     num: "02",
     title: "Lending History Tracker",
     text: "Track who borrowed what, when, and for how long with a complete and transparent audit trail.",
-    thumb: "/assets/Image/Asset2.avif",
+    thumb: "/assets/Image/Asset2.jpg",
   },
   {
     num: "03",
     title: "Employee Assignment Log",
     text: "Assign assets to employees and always know exactly who is using each item at any given time.",
-    thumb: "/assets/Image/Asset3.avif",
+    thumb: "/assets/Image/Asset3.jpg",
   },
   {
     num: "04",
     title: "Condition & Notes",
     text: "Record asset details like damages, serial numbers, and specifications for better tracking and maintenance.",
-    thumb: "/assets/Image/Asset4.avif",
+    thumb: "/assets/Image/Asset4.jpg",
   },
   {
     num: "05",
     title: "Maintenance Reminders",
     text: "Set alerts for servicing and maintenance to prevent unexpected breakdowns and extend asset life.",
-    thumb: "/assets/Image/Asset5.avif",
+    thumb: "/assets/Image/Asset5.jpg",
   },
   {
     num: "06",
     title: "Status Dashboard",
     text: "View assets by status such as available, checked-out, or under repair with a clear visual dashboard.",
-    thumb: "/assets/Image/Asset6.avif",
+    thumb: "/assets/Image/Asset6.jpg",
   },
 ];
 

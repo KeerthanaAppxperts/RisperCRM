@@ -25,7 +25,7 @@ const SERVICES = [
       "Quick Shortlisting",
       "Time-Saving Workflows",
     ],
-    image: "/assets/Images/Require1.avif",
+    image: "/assets/Images/Require1.jpeg",
     itemClass: "pb-40",
   },
   {
@@ -51,7 +51,7 @@ const SERVICES = [
       "Candidate Alerts",
       "Reduced Manual Work",
     ],
-    image: "/assets/Images/Require3.avif",
+    image: "/assets/Images/Require3.jpeg",
     itemClass: "pb-40",
   },
   {
@@ -81,7 +81,7 @@ const SERVICES = [
       "Structured Hiring Flow",
       "Positive Feedback Loop",
     ],
-    image: "/assets/Images/Require5.avif",
+    image: "/assets/Images/Require5.jpeg",
     itemClass: "pb-40",
   },
   {

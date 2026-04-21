@@ -9,12 +9,12 @@ const ARROW_SVG = (
 );
 
 const SERVICE_IMAGES = [
-    "/assets/Image/Require1.avif",
-    "/assets/Image/Require2.avif",
+    "/assets/Image/Require1.jpg",
+    "/assets/Image/Require2.jpg",
     "/assets/Image/Require3.avif",
-    "/assets/Image/Require4.avif",
-    "/assets/Image/Require5.avif",
-    "/assets/Image/Require6.avif",
+    "/assets/Image/Require4.jpg",
+    "/assets/Image/Require5.jpg",
+    "/assets/Image/Require6.jpg",
 ];
 
 // const SERVICES = [
@@ -30,13 +30,13 @@ const SERVICES = [
     num: "01",
     title: "1-Click Job Posting",
     text: "Post job openings to your website and job boards like Indeed and LinkedIn in seconds with a single click.",
-    thumb: "/assets/Image/Require1.avif",
+    thumb: "/assets/Image/Require1.jpg",
   },
   {
     num: "02",
     title: "Central Application Hub",
     text: "Collect and manage all resumes and applications in one place so you never lose a candidate.",
-    thumb: "/assets/Image/Require2.avif",
+    thumb: "/assets/Image/Require2.jpg",
   },
   {
     num: "03",
@@ -48,19 +48,19 @@ const SERVICES = [
     num: "04",
     title: "Automated Email Notifications",
     text: "Send automatic alerts for new applications, interview reminders, and offer updates to keep everyone informed.",
-    thumb: "/assets/Image/Require4.avif",
+    thumb: "/assets/Image/Require4.jpg",
   },
   {
     num: "05",
     title: "Instant Offer Letters",
     text: "Generate and send professional offer letters instantly with built-in e-signature support.",
-    thumb: "/assets/Image/Require5.avif",
+    thumb: "/assets/Image/Require5.jpg",
   },
   {
     num: "06",
     title: "Visual Hiring Pipeline",
     text: "Manage candidates with a drag-and-drop pipeline from applied to hired or rejected for better hiring visibility.",
-    thumb: "/assets/Image/Require6.avif",
+    thumb: "/assets/Image/Require6.jpg",
   },
 ];
 

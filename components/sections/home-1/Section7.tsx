@@ -86,7 +86,7 @@ export default function Section7() {
                     <div className="anim-zoomin">
                       <Image
                         className="zoom-blur-image img-cover"
-                        src="/assets/Images/Why.avif"
+                        src="/assets/Images/Why.jpeg"
                         alt="orisa"
                         width={600}
                         height={400}
@@ -112,7 +112,7 @@ export default function Section7() {
                     <div className="anim-zoomin">
                       <Image
                         className="zoom-blur-image img-cover"
-                        src="/assets/Image/CRM.avif"
+                        src="/assets/Image/CRM.jpg"
                         alt="orisa"
                         width={600}
                         height={450}

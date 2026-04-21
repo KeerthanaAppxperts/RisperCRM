@@ -51,7 +51,7 @@ export default function Section1() {
               >
                 <div data-speed=".8">
                   <Image
-                    src="/assets/Image/Clients1.avif"
+                    src="/assets/Image/BannerImage.jpg"
                     alt="orisa"
                     width={1900}
                     height={800}

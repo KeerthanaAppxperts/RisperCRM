@@ -164,7 +164,7 @@ export default function Section2() {
                               data-parallax
                               data-parallax-speed="0.45"
                               data-parallax-range="100"
-                              src="/assets/Image/Growth.avif"
+                              src="/assets/Image/Growth.jpg"
                               alt="orisa"
                               width={600}
                               height={450}
@@ -212,7 +212,7 @@ export default function Section2() {
                               data-delay=".4"
                               data-fade-from="bottom"
                               data-ease="bounce"
-                              src="/assets/Image/Strategic.avif"
+                              src="/assets/Image/Strategic.jpg"
                               alt="orisa"
                               width={500}
                               height={450}
