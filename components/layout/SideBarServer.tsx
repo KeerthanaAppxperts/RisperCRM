@@ -96,12 +96,12 @@ export default function SideBarServer() {
                 <Link href="/">
                   <Image
                     data-width="30"
-                    src="/assets/imgs/template/logo/Icon.png"
+                    src="/assets/imgs/template/logo/Logo3.png"
                     alt="Orisa"
-                    width={30}
-                    height={30}
+                    width={180}
+                    height={60}
                   />
-                  <h6 className="fw-700 fz-24 mb-0">Risper CRM</h6>
+                  {/* <h6 className="fw-700 fz-24 mb-0">Risper CRM</h6> */}
                 </Link>
               </div>
               <div className="at-offcanvas-close-btn">
@@ -184,12 +184,12 @@ export default function SideBarServer() {
                   <Image
                     className="dark-mode-invert"
                     data-width="30"
-                    src="/assets/imgs/template/logo/Icon.png"
+                    src="/assets/imgs/template/logo/Logo3.png"
                     alt="Risper CRM"
-                    width={30}
-                    height={30}
+                    width={180}
+                    height={60}
                   />
-                  <h6 className="fw-700 fz-24 mb-0">Risper CRM</h6>
+                  {/* <h6 className="fw-700 fz-24 mb-0">Risper CRM</h6> */}
                 </Link>
                 <span
                   className="hamburger-close-btn close-sidebar"

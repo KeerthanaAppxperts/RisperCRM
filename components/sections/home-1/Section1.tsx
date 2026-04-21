@@ -27,7 +27,7 @@ export default function Section1() {
         {/* at-hero-area */}
         <div
           className="at-hero-area scene p-relative z-index-1 bg-position fix at-hero-spacing bg-primary-1 overflow-hidden"
-          data-background="/assets/imgs/pages/bg-img.webp"
+          data-background="/assets/Image/bg-2.png"
           data-parallax-scene
           data-scalar-x="18"
           data-scalar-y="18"
@@ -45,11 +45,11 @@ export default function Section1() {
             data-parallax-range="100"
           >
             <Image
-              width={1200}
-              height={1040}
+              width={800}
+              height={800}
               className="layer"
               data-depth=".1"
-              src="/assets/imgs/pages/img-1.webp"
+              src="/assets/Image/Bannerimg.jpeg"
               alt="orisa"
             />
           </div>
@@ -197,7 +197,10 @@ export default function Section1() {
                 {/* <a href="mailto:hello@orisa.com" className="text-white fw-600">
                   <span className="at_fade_anim">hello@orisa.com</span>
                 </a> */}
-                <a href="mailto:info@rispercrm.com" className="text-white fw-600">
+                <a
+                  href="mailto:info@rispercrm.com"
+                  className="text-white fw-600"
+                >
                   <span className="at_fade_anim">info@rispercrm.com</span>
                 </a>
               </div>

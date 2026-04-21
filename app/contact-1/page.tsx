@@ -5,7 +5,7 @@ export default function Contact1Page() {
     return (
         <Layout headerStyle={2} footerStyle={2}>
             <Section1 />
-            <Section2 />
+            {/* <Section2 /> */}
         </Layout>
     );
 }

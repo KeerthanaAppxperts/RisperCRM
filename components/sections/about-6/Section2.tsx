@@ -59,7 +59,7 @@ const PLUS_ICON = (
 
 const PROCESS_ITEMS = [
   {
-    img: "/assets/Image/Key19.avif",
+    img: "/assets/Images/Key19.jpeg",
     alt: "Sales Funnel Visibility",
     title: "01. See Your Entire Sales Funnel",
     metaText: "Visual Pipeline",
@@ -67,7 +67,7 @@ const PROCESS_ITEMS = [
     desc: "Get a clear view of your pipeline and spot stuck deals instantly, so you never miss an opportunity to close.",
   },
   {
-    img: "/assets/Image/Key20.avif",
+    img: "/assets/Images/Key20.jpeg",
     alt: "Team Workload Balance",
     title: "02. Balance Team Workload",
     metaText: "Auto Assignment",
@@ -75,7 +75,7 @@ const PROCESS_ITEMS = [
     desc: "Distribute leads automatically across your team to prevent burnout and ensure fair workload management.",
   },
   {
-    img: "/assets/Image/Key21.avif",
+    img: "/assets/Images/Key21.jpeg",
     alt: "Follow-up Automation",
     title: "03. Eliminate Missing Follow-ups",
     metaText: "Smart Reminders",
@@ -83,7 +83,7 @@ const PROCESS_ITEMS = [
     desc: "Stay on top of every deal with automated reminders that ensure timely follow-ups and better conversions.",
   },
   {
-    img: "/assets/Image/Key22.avif",
+    img: "/assets/Images/Key22.jpeg",
     alt: "Sales Process",
     title: "04. Standardize Your Sales Process",
     metaText: "Pre-built Stages",
@@ -91,7 +91,7 @@ const PROCESS_ITEMS = [
     desc: "Use structured deal stages to keep your team aligned and maintain consistency across your sales process.",
   },
   {
-    img: "/assets/Image/Key23.avif",
+    img: "/assets/Images/Key23.jpeg",
     alt: "Easy Onboarding",
     title: "05. Onboard New Staff in Minutes",
     metaText: "User-Friendly",
@@ -99,7 +99,7 @@ const PROCESS_ITEMS = [
     desc: "Simple drag-and-drop interface makes it easy for new team members to get started without training.",
   },
   {
-    img: "/assets/Image/Key24.avif",
+    img: "/assets/Images/Key24.jpeg",
     alt: "Centralized Data",
     title: "06. Stop Using Spreadsheets",
     metaText: "Centralized Hub",

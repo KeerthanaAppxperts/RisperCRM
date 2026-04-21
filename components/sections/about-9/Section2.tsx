@@ -59,7 +59,7 @@ const PLUS_ICON = (
 
 const PROCESS_ITEMS = [
   {
-    img: "/assets/Image/Key1.avif",
+    img: "/assets/Images/Key28.jpeg",
     alt: "Fast Resolution",
     title: "01. 90% Faster Resolution",
     metaText: "Live Support",
@@ -67,7 +67,7 @@ const PROCESS_ITEMS = [
     desc: "Resolve customer issues instantly with dedicated relationship managers and real-time chat support.",
   },
   {
-    img: "/assets/Image/Key5.avif",
+    img: "/assets/Image/Key5.jpeg",
     alt: "Client Retention",
     title: "02. Boost Client Retention",
     metaText: "Personalized Experience",
@@ -75,7 +75,7 @@ const PROCESS_ITEMS = [
     desc: "Deliver a VIP experience with personalized support that keeps clients engaged and loyal.",
   },
   {
-    img: "/assets/Image/Key8.avif",
+    img: "/assets/Images/Key14.jpeg",
     alt: "Reduce Costs",
     title: "03. Slash Support Costs",
     metaText: "Automation",
@@ -83,7 +83,7 @@ const PROCESS_ITEMS = [
     desc: "Automatically route tickets to the right team and handle more volume without increasing staff.",
   },
   {
-    img: "/assets/Image/Key12.avif",
+    img: "/assets/Images/Key261.jpeg",
     alt: "Prevent Issues",
     title: "04. Prevent Escalations",
     metaText: "SLA Monitoring",
@@ -91,7 +91,7 @@ const PROCESS_ITEMS = [
     desc: "Stay ahead with SLA alerts that help resolve issues before they escalate into major problems.",
   },
   {
-    img: "/assets/Image/Key18.avif",
+    img: "/assets/Images/Key9.jpeg",
     alt: "Upsell Opportunities",
     title: "05. Unlock Upsell Opportunities",
     metaText: "Client Insights",
@@ -99,7 +99,7 @@ const PROCESS_ITEMS = [
     desc: "Use client health data to identify opportunities for upselling and offering additional services.",
   },
   {
-    img: "/assets/Image/Key21.avif",
+    img: "/assets/Images/Key12.jpeg",
     alt: "Brand Reputation",
     title: "06. Build a Premium Reputation",
     metaText: "Customer Experience",

@@ -59,7 +59,7 @@ const PLUS_ICON = (
 
 const PROCESS_ITEMS = [
   {
-    img: "/assets/Image/Key1.avif",
+    img: "/assets/Images/Key1.jpeg",
     alt: "Reduce Client Queries",
     title: "01. Cut Client Queries by 80%",
     metaText: "Self-Service Access",
@@ -67,7 +67,7 @@ const PROCESS_ITEMS = [
     desc: "Give clients instant access to invoices, updates, and documents—reducing repetitive questions and support requests.",
   },
   {
-    img: "/assets/Image/Key2.avif",
+    img: "/assets/Images/Key2.jpeg",
     alt: "Faster Payments",
     title: "02. Faster Payments & Approvals",
     metaText: "1-Click Actions",
@@ -75,7 +75,7 @@ const PROCESS_ITEMS = [
     desc: "Enable one-click invoice payments and contract approvals to shorten your cash cycle and speed up decisions.",
   },
   {
-    img: "/assets/Image/Key3.avif",
+    img: "/assets/Images/Key3.jpeg",
     alt: "Build Trust",
     title: "03. Build Trust Through Transparency",
     metaText: "Live Tracking",
@@ -83,7 +83,7 @@ const PROCESS_ITEMS = [
     desc: "Share real-time project updates and timelines so clients always know progress without constant follow-ups.",
   },
   {
-    img: "/assets/Image/Key4.avif",
+    img: "/assets/Images/Key4.jpeg",
     alt: "Reduce Admin Work",
     title: "04. Reduce Admin Chaos",
     metaText: "Auto Sync",
@@ -91,7 +91,7 @@ const PROCESS_ITEMS = [
     desc: "Eliminate back-and-forth emails with all documents, updates, and communications synced in one place.",
   },
   {
-    img: "/assets/Image/Key5.avif",
+    img: "/assets/Images/Key5.jpeg",
     alt: "Control Scope",
     title: "05. Prevent Scope Creep",
     metaText: "Structured Requests",
@@ -99,7 +99,7 @@ const PROCESS_ITEMS = [
     desc: "Manage change requests through a structured ticket system instead of scattered messages and calls.",
   },
   {
-    img: "/assets/Image/Key6.avif",
+    img: "/assets/Images/Key6.jpeg",
     alt: "Stand Out",
     title: "06. Stand Out from Competitors",
     metaText: "Branded Experience",

@@ -25,7 +25,7 @@ const SERVICES = [
       "Quick Shortlisting",
       "Time-Saving Workflows",
     ],
-    image: "/assets/Image/Require7.avif",
+    image: "/assets/Images/Require1.avif",
     itemClass: "pb-40",
   },
   {
@@ -38,7 +38,7 @@ const SERVICES = [
       "History Tracking",
       "Quick Re-engagement",
     ],
-    image: "/assets/Image/Require8.avif",
+    image: "/assets/Images/Require2.jpeg",
     itemClass: "pb-40",
   },
   {
@@ -51,7 +51,7 @@ const SERVICES = [
       "Candidate Alerts",
       "Reduced Manual Work",
     ],
-    image: "/assets/Image/Require9.avif",
+    image: "/assets/Images/Require3.avif",
     itemClass: "pb-40",
   },
   {
@@ -64,7 +64,7 @@ const SERVICES = [
       "Cost Optimization",
     ],
     listRight: ["No Agency Fees", "Better ROI", "Efficient Hiring"],
-    image: "/assets/Image/Require10.avif",
+    image: "/assets/Images/Require4.avif",
     itemClass: "pb-40",
   },
   {
@@ -81,7 +81,7 @@ const SERVICES = [
       "Structured Hiring Flow",
       "Positive Feedback Loop",
     ],
-    image: "/assets/Image/Require11.avif",
+    image: "/assets/Images/Require5.avif",
     itemClass: "pb-40",
   },
   {
@@ -94,7 +94,7 @@ const SERVICES = [
       "Unified Dashboard",
     ],
     listRight: ["No Spreadsheets", "Easy Access", "Organized Data"],
-    image: "/assets/Image/Require12.avif",
+    image: "/assets/Images/Require6.avif",
     itemClass: "pb-50",
   },
 ];

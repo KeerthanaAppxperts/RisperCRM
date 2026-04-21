@@ -59,7 +59,7 @@ const PLUS_ICON = (
 
 const PROCESS_ITEMS = [
   {
-    img: "/assets/Image/Key13.avif",
+    img: "/assets/Images/Key13.jpeg",
     alt: "Close Deals Faster",
     title: "01. Close Deals 50% Faster",
     metaText: "1-Click Workflow",
@@ -67,7 +67,7 @@ const PROCESS_ITEMS = [
     desc: "Create proposals instantly and close deals with built-in e-signatures. Less waiting, more winning.",
   },
   {
-    img: "/assets/Image/Key14.avif",
+    img: "/assets/Images/Key14.jpeg",
     alt: "Get Paid Faster",
     title: "02. Get Paid 2x Quicker",
     metaText: "Instant Payments",
@@ -75,7 +75,7 @@ const PROCESS_ITEMS = [
     desc: "Send invoices with payment links and get paid faster. Improve your cash flow without extra effort.",
   },
   {
-    img: "/assets/Image/Key15.avif",
+    img: "/assets/Images/Key15.jpeg",
     alt: "Reduce Errors",
     title: "03. Slash Accounting Errors",
     metaText: "Auto Sync",
@@ -83,7 +83,7 @@ const PROCESS_ITEMS = [
     desc: "Automatically sync data with QuickBooks to eliminate manual errors, duplicates, and mismatches.",
   },
   {
-    img: "/assets/Image/Key16.avif",
+    img: "/assets/Images/Key16.jpeg",
     alt: "Track Profit",
     title: "04. Always Know Your Profit",
     metaText: "Live Insights",
@@ -91,7 +91,7 @@ const PROCESS_ITEMS = [
     desc: "Monitor profit and loss in real-time dashboards to make smarter pricing and spending decisions.",
   },
   {
-    img: "/assets/Image/Key17.avif",
+    img: "/assets/Images/Key17.jpeg",
     alt: "Contract Alerts",
     title: "05. Never Miss Contract Deadlines",
     metaText: "Auto Reminders",
@@ -99,7 +99,7 @@ const PROCESS_ITEMS = [
     desc: "Stay ahead with automated alerts for contract renewals and deadlines. Never lose clients again.",
   },
   {
-    img: "/assets/Image/Key18.avif",
+    img: "/assets/Images/Key18.jpeg",
     alt: "Document Management",
     title: "06. Stop Chasing Paperwork",
     metaText: "Centralized Hub",

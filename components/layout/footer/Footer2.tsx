@@ -39,14 +39,14 @@ export default function Footer2() {
                     <Link href="/">
                       <Image
                         data-width="30"
-                        src="/assets/imgs/template/logo/Icon.png"
+                        src="/assets/imgs/template/logo/Logo3.png"
                         alt="Orisa"
-                        width={30}
-                        height={30}
+                        width={180}
+                        height={60}
                       />
-                      <h6 className="fw-700 text-white mb-0 fz-24">
+                      {/* <h6 className="fw-700 text-white mb-0 fz-24">
                         Risper CRM
-                      </h6>
+                      </h6> */}
                     </Link>
                   </div>
                   <div className="d-flex flex-column gap-3">

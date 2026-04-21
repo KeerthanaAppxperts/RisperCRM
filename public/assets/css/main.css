@@ -989,8 +989,8 @@ li,
   /**
   @font family declaration
   */
-  --at-ff-body: 'DM Sans', sans-serif;
-  --at-ff-heading: 'DM Sans', sans-serif;
+  --at-ff-body: 'Montserrat Alternates','Poppins', sans-serif;
+  --at-ff-heading: 'Montserrat Alternates','Poppins', sans-serif;
   --at-ff-fontawesome: "Font Awesome 6 Pro";
   /**
   @font size declaration
@@ -1045,7 +1045,9 @@ li,
   --at-grey-3: #b6bcc6;
   --at-grey-4: #f6f6f6;
   --at-grey-5: #d7cdcd;
-  --at-theme-primary: #F0460E;
+  /* --at-theme-primary: #F0460E; */
+  --at-theme-primary: #530383;
+  --at-theme-secondary: #545454;
   --at-gradient-primary: linear-gradient(90deg, #a020f0 0%, #00ffd1 100%);
 }
 

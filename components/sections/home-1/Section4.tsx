@@ -28,18 +28,21 @@ const SERVICE_IMAGES = [
 const SERVICES = [
   {
     num: "01",
+    path:"/client-portal",
     title: "Client Portal",
     text: "Provide clients with a seamless platform to access information, track progress, and stay connected with your business in real time.",
     thumb: "/assets/Image/Client.avif",
   },
   {
     num: "02",
+    path:"/employee-portal",
     title: "Employee Portal",
     text: "Empower your team with a centralized workspace to manage tasks, collaborate efficiently, and streamline daily operations.",
     thumb: "/assets/Image/Employees.avif",
   },
   {
     num: "03",
+    path:"/sales-accounts",
     title: "Sales and Accounts",
     text: "Simplify financial management and sales processes with integrated tools for tracking revenue, invoices, and performance insights.",
     thumb: "/assets/Image/Accounts.avif",
@@ -47,18 +50,21 @@ const SERVICES = [
   {
     num: "04",
     title: "Leads and Deals",
+    path:"/leads-deals",
     text: "Capture, manage, and convert leads effectively while tracking deals through every stage of your sales pipeline.",
     thumb: "/assets/Image/Leads.avif",
   },
   {
     num: "05",
     title: "Projects and Tasks",
+    path:"/projects-tasks",
     text: "Organize projects with clarity, assign tasks efficiently, and ensure timely delivery with powerful tracking and collaboration features.",
     thumb: "/assets/Image/Projects.avif",
   },
   {
     num: "06",
     title: "Meetings & Chats",
+    path:"/meetings-chats",
     text: "Enhance communication with integrated meetings and chat tools that keep your team connected and productive anytime, anywhere.",
     thumb: "/assets/Image/Meetings.avif",
   },
@@ -114,7 +120,7 @@ export default function Section4() {
             <div className="col-xxl-7 ms-auto col-lg-8 col-xl-8 mb-40">
               <div className="at-service-list-wrap">
                 {SERVICES.map((s) => (
-                  <Link key={s.num} href="/services-details">
+                  <Link key={s.num} href={s.path}>
                     <div className="at-service-item service-item">
                       <div className="count">
                         <span className="number">[{s.num}]</span>

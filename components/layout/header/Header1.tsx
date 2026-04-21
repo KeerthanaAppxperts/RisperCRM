@@ -23,10 +23,11 @@ export default function Header1() {
                     className="d-inline-flex align-items-center text-decoration-none"
                   >
                     <Image
-                      width={120} // adjust size if needed
-                      height={40}
-                      src="/assets/imgs/template/logo/Logo.png"
+                      width={190} // adjust size if needed
+                      height={60}
+                      src="/assets/imgs/template/logo/Logo3.png"
                       alt="Rispercrm"
+                      // style={{ borderRadius: "12px" }}
                     />
                   </Link>
                 </div>

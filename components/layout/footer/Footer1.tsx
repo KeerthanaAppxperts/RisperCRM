@@ -68,10 +68,10 @@ export default function Footer1() {
                   <Image
                     className="mt-5"
                     data-width="50"
-                    src="/assets/imgs/template/logo/Icon.png"
+                    src="/assets/imgs/template/logo/Logo3.png"
                     alt="Orisa"
-                    width={50}
-                    height={50}
+                    width={190}
+                    height={60}
                   />
                   <div>
                     <h4 className="text-white reveal-text">
