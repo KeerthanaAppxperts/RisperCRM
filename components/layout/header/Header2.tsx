@@ -65,9 +65,9 @@ export default function Header2() {
                         />
                       </svg>
                     </button>
-                    <div className="dark-light-mode">
+                    {/* <div className="dark-light-mode">
                       <ThemeSwitcher />
-                    </div>
+                    </div> */}
                     <button
                       type="button"
                       className="at-menu-bar at-header-sidebar-btn"

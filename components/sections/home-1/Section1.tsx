@@ -78,26 +78,32 @@ export default function Section1() {
               </a>
             </div>
             <div className="row align-items-end">
-              <div className="col-xxl-2 col-xl-2 col-lg-4 col-md-5">
+              <div className="col-12 col-md-6 col-lg-4 col-xl-2 mb-4 d-none d-lg-block">
                 <div className="at-hero-video mb-30 at_fade_anim">
-                  <div className="rounded-3 overflow-hidden">
-                    <video
-                      className="img-cover"
-                      autoPlay
-                      muted
-                      loop
-                      playsInline
-                      poster="/assets/imgs/pages/img-2.webp"
+                  <div className="rounded-3 overflow-hidden position-relative">
+                    <Link
+                      href="https://youtu.be/CWmvoOtbytA?si=TPO3A1a4yNx-dqbN"
+                      target="_blank"
                     >
-                      <source
-                        src="/assets/imgs/video/video-1.mp4"
-                        type="video/mp4"
+                      <Image
+                        src="/assets/images/youtube.jpg"
+                        alt="How we work"
+                        width={400}
+                        height={250}
+                        className="img-cover w-100 h-auto"
                       />
-                    </video>
+
+                      {/* 🔴 Center Play Button */}
+                      <div className="video-play-btn">
+                        <span className="triangle"></span>
+                      </div>
+                    </Link>
                   </div>
+
                   <Link
                     className="at-btn text-white rounded-0 bg-transparent px-0 pt-2 pb-3 border-0"
-                    href="/client-portal"
+                    href="https://youtu.be/CWmvoOtbytA?si=TPO3A1a4yNx-dqbN"
+                    target="_blank"
                   >
                     <span>
                       <span className="text-1">How we work</span>
@@ -109,7 +115,7 @@ export default function Section1() {
                   </Link>
                 </div>
               </div>
-              <div className="col-xxl-2 col-xl-3 col-lg-5 col-md-5">
+              <div className="col-12 col-md-6 col-lg-5 col-xl-3 mb-4">
                 <div className="alt-hero-service at-hero-service mb-30">
                   <ul>
                     <li className="pb-10 at_fade_anim">
@@ -142,7 +148,7 @@ export default function Section1() {
                   </ul>
                 </div>
               </div>
-              <div className="col-xxl-5 offset-xxl-2 col-xl-6 col-12 ms-auto order-xl-1 order-md-2">
+              <div className="col-12 col-xl-6 offset-xl-1 order-2 order-xl-1">
                 <div className="at-hero-content mb-30">
                   {/* <span className="at-hero-subtitle text-white mb-10 d-inline-block at_fade_anim">
                     B2B Marketing Agency
@@ -205,7 +211,7 @@ export default function Section1() {
                 </a>
               </div>
             </div>
-            <div className="row pt-60 at_fade_anim">
+            {/* <div className="row pt-60 at_fade_anim">
               <div className="col-xxl-8 col-xl-9 mx-auto">
                 <div className="border-bottom border-white opacity-25 mb-20"></div>
                 <div className="at-hero-service-2">
@@ -226,7 +232,7 @@ export default function Section1() {
                   </ul>
                 </div>
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
       </>

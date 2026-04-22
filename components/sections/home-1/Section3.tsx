@@ -21,26 +21,46 @@ const BRANDS = [
 
 export default function Section3() {
     return (
-        <section className="at-brand-area at_fade_anim">
-            <div className="carouselTicker carouselTicker-right position-relative z-1">
-                <Marquee
-                    speed={40}
-                    direction="right"
-                    pauseOnHover={false}
-                    gradient={false}
-                    className="carouselTicker__marquee"
+      <section>
+        <div className="carouselTicker carouselTicker-right position-relative z-1">
+          <Marquee
+            speed={40}
+            direction="right"
+            pauseOnHover={false}
+            gradient={false}
+            gradientWidth={0}
+            className="carouselTicker__marquee"
+          >
+            <ul
+              className="carouselTicker__list scroll-move-right"
+              style={{
+                display: "flex",
+                listStyle: "none",
+                margin: 0,
+                padding: 0,
+                overflow: "visible",
+                gap: "0 2rem",
+              }}
+            >
+              {BRANDS.map((brand, i) => (
+                <li
+                  key={i}
+                  className="carouselTicker__item"
+                  style={{ margin: "0 1.5rem", float: "none" }}
                 >
-                    <ul className="carouselTicker__list scroll-move-right" style={{ display: "flex", listStyle: "none", margin: 0, padding: 0, overflow: "visible", gap: "0 2rem" }}>
-                        {BRANDS.map((brand, i) => (
-                            <li key={i} className="carouselTicker__item" style={{ margin: "0 1.5rem", float: "none" }}>
-                                <div className="brand-item dark-mode-invert">
-                                    <Image src={brand.src} alt={brand.alt} width={190} height={55} />
-                                </div>
-                            </li>
-                        ))}
-                    </ul>
-                </Marquee>
-            </div>
-        </section>
+                  <div className="brand-item dark-mode-invert">
+                    <Image
+                      src={brand.src}
+                      alt={brand.alt}
+                      width={200}
+                      height={65}
+                    />
+                  </div>
+                </li>
+              ))}
+            </ul>
+          </Marquee>
+        </div>
+      </section>
     );
 }

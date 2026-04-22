@@ -58,9 +58,9 @@ export default function Header1() {
                       />
                     </svg>
                   </button>
-                  <div className="dark-light-mode text-white">
+                  {/* <div className="dark-light-mode text-white">
                     <ThemeSwitcher />
-                  </div>
+                  </div> */}
                   <button className="at-menu-bar at-header-sidebar-btn text-white">
                     <svg
                       xmlns="http://www.w3.org/2000/svg"

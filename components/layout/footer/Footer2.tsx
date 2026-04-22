@@ -176,7 +176,7 @@ export default function Footer2() {
                   </div>
                 </div>
               </div>
-              <div className="row d-none d-md-block">
+              {/* <div className="row d-none d-md-block">
                 <div className="col-12">
                   <ul className="d-flex flex-wrap gap-lg-4 gap-2 ps-3 pt-4 pb-2">
                     {FOOTER_SERVICES.map((label) => (
@@ -186,7 +186,7 @@ export default function Footer2() {
                     ))}
                   </ul>
                 </div>
-              </div>
+              </div> */}
             </div>
           </div>
         </div>

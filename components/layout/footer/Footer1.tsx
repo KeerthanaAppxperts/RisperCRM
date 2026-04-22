@@ -159,7 +159,7 @@ export default function Footer1() {
                     </span>
                   </div>
                 </div>
-                <div className="col-lg-8">
+                {/* <div className="col-lg-8">
                   <ul className="d-flex flex-wrap gap-lg-4 gap-3 ps-3">
                     {FOOTER_SERVICES.map((label) => (
                       <li key={label}>
@@ -167,12 +167,12 @@ export default function Footer1() {
                       </li>
                     ))}
                   </ul>
-                </div>
-                <div className="col-lg-2">
+                </div> */}
+                {/* <div className="col-lg-2">
                   <div className="at-footer-copyright-wrap text-lg-end">
                     <span className="at-footer-copyright">[ Since 2012 ]</span>
                   </div>
-                </div>
+                </div> */}
               </div>
             </div>
           </div>
