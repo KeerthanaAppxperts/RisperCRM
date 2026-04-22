@@ -83,7 +83,7 @@ const PROCESS_ITEMS = [
     desc: "Protect sensitive conversations with encrypted chats and controlled document access.",
   },
   {
-    img: "/assets/Images/Key34.jpeg",
+    img: "/assets/Images/Key34.jpg",
     alt: "Reduce No Shows",
     title: "04. Cut No-Shows by 75%",
     metaText: "Auto Reminders",

@@ -99,7 +99,7 @@ const PROCESS_ITEMS = [
     desc: "Generate invoices instantly once deals are won and enable faster payments through client portals.",
   },
   {
-    img: "/assets/Images/Key30.jpeg",
+    img: "/assets/Images/Key30.jpg",
     alt: "Improve Sales",
     title: "06. Learn from Lost Deals",
     metaText: "Insights",

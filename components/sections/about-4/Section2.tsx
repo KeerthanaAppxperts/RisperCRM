@@ -59,7 +59,7 @@ const PLUS_ICON = (
 
 const PROCESS_ITEMS = [
   {
-    img: "/assets/Images/Key1.jpeg",
+    img: "/assets/Images/Key1.jpg",
     alt: "Reduce Client Queries",
     title: "01. Cut Client Queries by 80%",
     metaText: "Self-Service Access",
@@ -67,7 +67,7 @@ const PROCESS_ITEMS = [
     desc: "Give clients instant access to invoices, updates, and documents—reducing repetitive questions and support requests.",
   },
   {
-    img: "/assets/Images/Key2.jpeg",
+    img: "/assets/Images/Key2.jpg",
     alt: "Faster Payments",
     title: "02. Faster Payments & Approvals",
     metaText: "1-Click Actions",
@@ -75,7 +75,7 @@ const PROCESS_ITEMS = [
     desc: "Enable one-click invoice payments and contract approvals to shorten your cash cycle and speed up decisions.",
   },
   {
-    img: "/assets/Images/Key3.jpeg",
+    img: "/assets/Images/Key3.jpg",
     alt: "Build Trust",
     title: "03. Build Trust Through Transparency",
     metaText: "Live Tracking",
@@ -83,7 +83,7 @@ const PROCESS_ITEMS = [
     desc: "Share real-time project updates and timelines so clients always know progress without constant follow-ups.",
   },
   {
-    img: "/assets/Images/Key4.jpeg",
+    img: "/assets/Images/Key4.jpg",
     alt: "Reduce Admin Work",
     title: "04. Reduce Admin Chaos",
     metaText: "Auto Sync",

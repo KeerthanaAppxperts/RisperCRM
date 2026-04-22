@@ -83,7 +83,7 @@ const PROCESS_ITEMS = [
     desc: "Track tasks and team progress in real-time with dashboards that show exactly who’s working on what, from anywhere.",
   },
   {
-    img: "/assets/Images/Key10.jpeg",
+    img: "/assets/Images/Key10.jpg",
     alt: "HR Efficiency",
     title: "04. Slash HR Admin Time",
     metaText: "Self-Service",
@@ -99,7 +99,7 @@ const PROCESS_ITEMS = [
     desc: "Boost morale with appreciation features and flexible shift management to keep your team happy and engaged.",
   },
   {
-    img: "/assets/Images/Key12.jpeg",
+    img: "/assets/Images/Key12.jpg",
     alt: "Compliance",
     title: "06. Stay Compliant Effortlessly",
     metaText: "Audit Ready",
