@@ -67,7 +67,7 @@ const PROCESS_ITEMS = [
     desc: "Get a clear view of your pipeline and spot stuck deals instantly, so you never miss an opportunity to close.",
   },
   {
-    img: "/assets/Images/Key20.jpeg",
+    img: "/assets/Images/Key20.jpg",
     alt: "Team Workload Balance",
     title: "02. Balance Team Workload",
     metaText: "Auto Assignment",
@@ -75,7 +75,7 @@ const PROCESS_ITEMS = [
     desc: "Distribute leads automatically across your team to prevent burnout and ensure fair workload management.",
   },
   {
-    img: "/assets/Images/Key21.jpeg",
+    img: "/assets/Images/Key21.jpg",
     alt: "Follow-up Automation",
     title: "03. Eliminate Missing Follow-ups",
     metaText: "Smart Reminders",
