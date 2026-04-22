@@ -73,7 +73,7 @@ const SERVICES = [
       "Access complete lending history instantly without relying on manual logs or scattered spreadsheets.",
     listLeft: ["Lending History Tracking", "Audit Trail Records", "Usage Logs"],
     listRight: ["Instant Reports", "Time-Based Tracking", "Exportable Data"],
-    image: "/assets/images/Asset8.jpeg",
+    image: "/assets/images/Asset8.jpg",
     itemClass: "pb-40",
   },
   {
@@ -90,7 +90,7 @@ const SERVICES = [
       "Condition Monitoring",
       "Lifecycle Management",
     ],
-    image: "/assets/images/Asset9.jpeg",
+    image: "/assets/images/Asset9.jpg",
     itemClass: "pb-40",
   },
   {
@@ -124,7 +124,7 @@ const SERVICES = [
       "Usage Permissions",
       "Activity Monitoring",
     ],
-    image: "/assets/images/Asset11.jpeg",
+    image: "/assets/images/Asset11.jpg",
     itemClass: "pb-40",
   },
   {
@@ -137,7 +137,7 @@ const SERVICES = [
       "Department Allocation",
       "Performance Insights",
     ],
-    image: "/assets/images/Asset12.jpeg",
+    image: "/assets/images/Asset12.jpg",
     itemClass: "pb-40",
   },
 ];

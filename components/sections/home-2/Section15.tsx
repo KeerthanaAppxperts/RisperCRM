@@ -64,7 +64,7 @@ const SERVICES = [
       "Cost Optimization",
     ],
     listRight: ["No Agency Fees", "Better ROI", "Efficient Hiring"],
-    image: "/assets/images/Require4.avif",
+    image: "/assets/images/Require4.jpg",
     itemClass: "pb-40",
   },
   {
@@ -94,7 +94,7 @@ const SERVICES = [
       "Unified Dashboard",
     ],
     listRight: ["No Spreadsheets", "Easy Access", "Organized Data"],
-    image: "/assets/images/Require6.avif",
+    image: "/assets/images/Require6.jpg",
     itemClass: "pb-50",
   },
 ];

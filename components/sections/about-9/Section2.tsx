@@ -99,7 +99,7 @@ const PROCESS_ITEMS = [
     desc: "Use client health data to identify opportunities for upselling and offering additional services.",
   },
   {
-    img: "/assets/images/Key12.avif",
+    img: "/assets/images/Key12.jpg",
     alt: "Brand Reputation",
     title: "06. Build a Premium Reputation",
     metaText: "Customer Experience",
