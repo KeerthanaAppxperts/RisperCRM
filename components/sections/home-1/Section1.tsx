@@ -35,22 +35,24 @@ export default function Section1() {
           data-friction-y="0.12"
         >
           <div
-            className="at-hero-bg at_fade_anim overflow-visible"
-            data-speed=".8"
-            data-delay=".4"
-            data-fade-from="bottom"
-            data-ease="bounce"
-            data-parallax
-            data-parallax-speed="0.45"
-            data-parallax-range="100"
+            className="at-hero-bg at_fade_anim"
+            style={{
+              position: "absolute",
+              top: 0,
+              left: 0,
+              width: "100%",
+              height: "100%",
+              zIndex: -1,
+            }}
           >
             <Image
-              width={800}
-              height={800}
-              className="layer"
-              data-depth=".1"
               src="/assets/Image/Bannerimg.jpeg"
               alt="orisa"
+              fill
+              priority
+              style={{
+                objectFit: "cover",
+              }}
             />
           </div>
           <div className="container p-relative">
@@ -178,13 +180,8 @@ export default function Section1() {
                           href="/contact-1"
                         >
                           <span>
-                            <span className="text-1">
-                              Book Demo
-                            </span>
-                            <span className="text-2">
-                              Book
-                              Demo
-                            </span>
+                            <span className="text-1">Book Demo</span>
+                            <span className="text-2">Book Demo</span>
                           </span>
                         </Link>
                       </div>

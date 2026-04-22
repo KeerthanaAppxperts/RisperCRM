@@ -54,9 +54,9 @@ export default function Section2() {
               <div
                 className="at-service-card card-1 rounded-4 overflow-hidden p-relative bg-cover"
                 style={{
-                  backgroundImage: "url(/assets/imgs/pages/img-76.webp)",
+                  backgroundImage: "url(/assets/images/Image9.jpg)",
                 }}
-                data-background="/assets/imgs/pages/img-76.webp"
+                data-background="/assets/images/Image9.jpg"
               >
                 <Link
                   href="#"
@@ -82,7 +82,7 @@ export default function Section2() {
                 <Link href="#" className="p-absolute bottom-0 start-0 end-0">
                   <Image
                     className="img-cover"
-                    src="/assets/imgs/pages/img-77.webp"
+                    src="/assets/images/Image7.jpeg"
                     alt="orisa"
                     width={400}
                     height={500}
@@ -108,28 +108,28 @@ export default function Section2() {
                 <Link href="#" className="p-absolute top-0 left-0">
                   <Image
                     className="img-cover"
-                    src="/assets/imgs/pages/img-78.webp"
+                    src="/assets/images/Image10.jpg"
                     alt="orisa"
                     width={400}
                     height={300}
                   />
                 </Link>
                 <Link href="#" className="p-absolute bottom-0 start-0 end-0">
-                  <Image
+                  {/* <Image
                     className="img-cover"
                     src="/assets/imgs/pages/img-79.webp"
                     alt="orisa"
                     width={400}
                     height={300}
-                  />
+                  /> */}
                 </Link>
-                <div className="at-service-card-content text-white p-absolute top-50 left-0 mx-xxl-5 mx-4 translate-middle-y">
+                <div className="at-service-card-content text-black p-absolute top-50 left-0 mx-xxl-5 mx-4 translate-middle-y">
                   <div className="at-service-card-icon">{ICON_3}</div>
-                  <h6 className="text-white mt-3">
+                  <h6 className="text-black mt-3">
                     <Link href="#">Leave &amp; Shift Management</Link>
                   </h6>
                   <div className="at-service-card-description">
-                    <p className="mb-0 text-white">
+                    <p className="mb-0 text-black">
                       Request time off, swap shifts, or view rosters →
                       Approved/rejected in real time.
                     </p>
@@ -141,9 +141,9 @@ export default function Section2() {
               <div
                 className="at-service-card card-1 rounded-4 overflow-hidden p-relative bg-cover"
                 style={{
-                  backgroundImage: "url(/assets/imgs/pages/img-76.webp)",
+                  backgroundImage: "url(/assets/images/Image11.jpg)",
                 }}
-                data-background="/assets/imgs/pages/img-76.webp"
+                data-background="/assets/images/Image11.jpg"
               >
                 <Link
                   href="#"
@@ -169,7 +169,7 @@ export default function Section2() {
                 <Link href="#" className="p-absolute bottom-0 start-0 end-0">
                   <Image
                     className="img-cover"
-                    src="/assets/imgs/pages/img-77.webp"
+                    src="/assets/images/Image12.jpg"
                     alt="orisa"
                     width={400}
                     height={500}
@@ -204,7 +204,7 @@ export default function Section2() {
                 <Link href="#" className="p-absolute bottom-0 start-0 end-0">
                   <Image
                     className="img-cover"
-                    src="/assets/imgs/pages/img-79.webp"
+                    src="/assets/images/Image14.jpg"
                     alt="orisa"
                     width={400}
                     height={300}

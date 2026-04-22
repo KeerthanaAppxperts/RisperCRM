@@ -54,9 +54,9 @@ export default function Section2() {
               <div
                 className="at-service-card card-1 rounded-4 overflow-hidden p-relative bg-cover"
                 style={{
-                  backgroundImage: "url(/assets/imgs/pages/img-76.webp)",
+                  backgroundImage: "url(/assets/images/Key7.jpeg)",
                 }}
-                data-background="/assets/imgs/pages/img-76.webp"
+                data-background="/assets/images/Key18.jpeg"
               >
                 <Link
                   href="#"
@@ -82,7 +82,7 @@ export default function Section2() {
                 <Link href="#" className="p-absolute bottom-0 start-0 end-0">
                   <Image
                     className="img-cover"
-                    src="/assets/imgs/pages/img-77.webp"
+                    src="/assets/images/Key34.jpg"
                     alt="orisa"
                     width={400}
                     height={500}
@@ -107,7 +107,7 @@ export default function Section2() {
                 <Link href="#" className="p-absolute top-0 left-0">
                   <Image
                     className="img-cover"
-                    src="/assets/imgs/pages/img-78.webp"
+                    src="/assets/images/Image6.jpg"
                     alt="orisa"
                     width={400}
                     height={300}
@@ -116,7 +116,7 @@ export default function Section2() {
                 <Link href="#" className="p-absolute bottom-0 start-0 end-0">
                   <Image
                     className="img-cover"
-                    src="/assets/imgs/pages/img-79.webp"
+                    src="/assets/images/Image8.jpg"
                     alt="orisa"
                     width={400}
                     height={300}
@@ -140,9 +140,9 @@ export default function Section2() {
               <div
                 className="at-service-card card-1 rounded-4 overflow-hidden p-relative bg-cover"
                 style={{
-                  backgroundImage: "url(/assets/imgs/pages/img-76.webp)",
+                  backgroundImage: "url(/assets/images/Key4.jpg)",
                 }}
-                data-background="/assets/imgs/pages/img-76.webp"
+                data-background="/assets/images/Key4.jpg"
               >
                 <Link
                   href="#"
@@ -168,7 +168,7 @@ export default function Section2() {
                 <Link href="#" className="p-absolute bottom-0 start-0 end-0">
                   <Image
                     className="img-cover"
-                    src="/assets/imgs/pages/img-77.webp"
+                    src="/assets/images/Image17.jpg"
                     alt="orisa"
                     width={400}
                     height={500}
@@ -193,20 +193,20 @@ export default function Section2() {
                 <Link href="#" className="p-absolute top-0 left-0">
                   <Image
                     className="img-cover"
-                    src="/assets/imgs/pages/img-78.webp"
+                    src="/assets/images/Image13.jpg"
                     alt="orisa"
                     width={400}
                     height={300}
                   />
                 </Link>
                 <Link href="#" className="p-absolute bottom-0 start-0 end-0">
-                  <Image
+                  {/* <Image
                     className="img-cover"
                     src="/assets/imgs/pages/img-79.webp"
                     alt="orisa"
                     width={400}
                     height={300}
-                  />
+                  /> */}
                 </Link>
                 <div className="at-service-card-content text-white p-absolute top-50 left-0 mx-xxl-5 mx-4 translate-middle-y">
                   <div className="at-service-card-icon">{ICON_3}</div>
