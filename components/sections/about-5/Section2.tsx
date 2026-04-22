@@ -59,7 +59,7 @@ const PLUS_ICON = (
 
 const PROCESS_ITEMS = [
   {
-    img: "/assets/Images/Key7.jpeg",
+    img: "/assets/images/Key7.jpeg",
     alt: "Timesheet Management",
     title: "01. Eliminate Timesheet Chaos",
     metaText: "Auto Tracking",
@@ -67,7 +67,7 @@ const PROCESS_ITEMS = [
     desc: "Automate time tracking with biometrics and auto clock-ins—no more missed entries or manual errors.",
   },
   {
-    img: "/assets/Images/Key8.jpeg",
+    img: "/assets/images/Key8.jpeg",
     alt: "Payroll Accuracy",
     title: "02. Cut Payroll Errors by 90%",
     metaText: "Auto Sync",
@@ -75,7 +75,7 @@ const PROCESS_ITEMS = [
     desc: "Sync attendance, expenses, and leave data automatically to ensure accurate and error-free payroll processing.",
   },
   {
-    img: "/assets/Images/Key9.jpeg",
+    img: "/assets/images/Key9.jpeg",
     alt: "Remote Work Visibility",
     title: "03. Remote Team Transparency",
     metaText: "Live Dashboards",
@@ -83,7 +83,7 @@ const PROCESS_ITEMS = [
     desc: "Track tasks and team progress in real-time with dashboards that show exactly who’s working on what, from anywhere.",
   },
   {
-    img: "/assets/Images/Key10.jpg",
+    img: "/assets/images/Key10.jpg",
     alt: "HR Efficiency",
     title: "04. Slash HR Admin Time",
     metaText: "Self-Service",
@@ -91,7 +91,7 @@ const PROCESS_ITEMS = [
     desc: "Let employees manage their own leave and expenses, reducing HR workload and saving hours every week.",
   },
   {
-    img: "/assets/Images/Key11.jpeg",
+    img: "/assets/images/Key11.jpeg",
     alt: "Employee Engagement",
     title: "05. Reduce Turnover",
     metaText: "Team Engagement",
@@ -99,7 +99,7 @@ const PROCESS_ITEMS = [
     desc: "Boost morale with appreciation features and flexible shift management to keep your team happy and engaged.",
   },
   {
-    img: "/assets/Images/Key12.jpg",
+    img: "/assets/images/Key12.jpg",
     alt: "Compliance",
     title: "06. Stay Compliant Effortlessly",
     metaText: "Audit Ready",

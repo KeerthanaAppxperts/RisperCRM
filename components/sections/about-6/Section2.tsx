@@ -59,7 +59,7 @@ const PLUS_ICON = (
 
 const PROCESS_ITEMS = [
   {
-    img: "/assets/Images/Key19.jpeg",
+    img: "/assets/images/Key19.jpeg",
     alt: "Sales Funnel Visibility",
     title: "01. See Your Entire Sales Funnel",
     metaText: "Visual Pipeline",
@@ -67,7 +67,7 @@ const PROCESS_ITEMS = [
     desc: "Get a clear view of your pipeline and spot stuck deals instantly, so you never miss an opportunity to close.",
   },
   {
-    img: "/assets/Images/Key20.jpg",
+    img: "/assets/images/Key20.jpg",
     alt: "Team Workload Balance",
     title: "02. Balance Team Workload",
     metaText: "Auto Assignment",
@@ -75,7 +75,7 @@ const PROCESS_ITEMS = [
     desc: "Distribute leads automatically across your team to prevent burnout and ensure fair workload management.",
   },
   {
-    img: "/assets/Images/Key21.jpg",
+    img: "/assets/images/Key21.jpg",
     alt: "Follow-up Automation",
     title: "03. Eliminate Missing Follow-ups",
     metaText: "Smart Reminders",
@@ -83,7 +83,7 @@ const PROCESS_ITEMS = [
     desc: "Stay on top of every deal with automated reminders that ensure timely follow-ups and better conversions.",
   },
   {
-    img: "/assets/Images/Key22.jpeg",
+    img: "/assets/images/Key22.jpeg",
     alt: "Sales Process",
     title: "04. Standardize Your Sales Process",
     metaText: "Pre-built Stages",
@@ -91,7 +91,7 @@ const PROCESS_ITEMS = [
     desc: "Use structured deal stages to keep your team aligned and maintain consistency across your sales process.",
   },
   {
-    img: "/assets/Images/Key23.jpeg",
+    img: "/assets/images/Key23.jpeg",
     alt: "Easy Onboarding",
     title: "05. Onboard New Staff in Minutes",
     metaText: "User-Friendly",
@@ -99,7 +99,7 @@ const PROCESS_ITEMS = [
     desc: "Simple drag-and-drop interface makes it easy for new team members to get started without training.",
   },
   {
-    img: "/assets/Images/Key24.jpeg",
+    img: "/assets/images/Key24.jpeg",
     alt: "Centralized Data",
     title: "06. Stop Using Spreadsheets",
     metaText: "Centralized Hub",

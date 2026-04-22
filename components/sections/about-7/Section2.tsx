@@ -59,7 +59,7 @@ const PLUS_ICON = (
 
 const PROCESS_ITEMS = [
   {
-    img: "/assets/Images/Key25.jpeg",
+    img: "/assets/images/Key25.jpeg",
     alt: "Save Time",
     title: "01. Save 10+ Hours Weekly",
     metaText: "Auto Distribution",
@@ -67,7 +67,7 @@ const PROCESS_ITEMS = [
     desc: "Automatically distribute leads across your team to eliminate manual work and save hours every week.",
   },
   {
-    img: "/assets/Images/Key261.jpeg",
+    img: "/assets/images/Key261.jpeg",
     alt: "Close Deals Faster",
     title: "02. Close Deals 3x Faster",
     metaText: "Quick Actions",
@@ -75,7 +75,7 @@ const PROCESS_ITEMS = [
     desc: "Send proposals in one click and use automated reminders to speed up approvals and close deals faster.",
   },
   {
-    img: "/assets/Images/Key27.jpeg",
+    img: "/assets/images/Key27.jpeg",
     alt: "Track Leads",
     title: "03. Never Lose Track of Leads",
     metaText: "Full Visibility",
@@ -83,7 +83,7 @@ const PROCESS_ITEMS = [
     desc: "Track every interaction with status tags and activity history so no lead ever slips through the cracks.",
   },
   {
-    img: "/assets/Images/Key28.jpeg",
+    img: "/assets/images/Key28.jpeg",
     alt: "Client Communication",
     title: "04. Reduce Client Back-and-Forth",
     metaText: "Inline Feedback",
@@ -91,7 +91,7 @@ const PROCESS_ITEMS = [
     desc: "Let clients ask questions directly on proposals to avoid long email threads and speed up decisions.",
   },
   {
-    img: "/assets/Images/Key29.jpeg",
+    img: "/assets/images/Key29.jpeg",
     alt: "Faster Payments",
     title: "05. Get Paid Faster",
     metaText: "Instant Billing",
@@ -99,7 +99,7 @@ const PROCESS_ITEMS = [
     desc: "Generate invoices instantly once deals are won and enable faster payments through client portals.",
   },
   {
-    img: "/assets/Images/Key30.jpg",
+    img: "/assets/images/Key30.jpg",
     alt: "Improve Sales",
     title: "06. Learn from Lost Deals",
     metaText: "Insights",

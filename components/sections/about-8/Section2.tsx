@@ -59,7 +59,7 @@ const PLUS_ICON = (
 
 const PROCESS_ITEMS = [
   {
-    img: "/assets/Images/Key31.jpeg",
+    img: "/assets/images/Key31.jpeg",
     alt: "Save Time",
     title: "01. Save 6+ Hours Weekly",
     metaText: "All-in-One Workspace",
@@ -67,7 +67,7 @@ const PROCESS_ITEMS = [
     desc: "Manage meetings, chats, and documents in one place—no more switching between multiple apps.",
   },
   {
-    img: "/assets/Images/Key32.jpeg",
+    img: "/assets/images/Key32.jpeg",
     alt: "Avoid Double Booking",
     title: "02. Eliminate Overbooking Blunders",
     metaText: "Calendar Sync",
@@ -75,7 +75,7 @@ const PROCESS_ITEMS = [
     desc: "Sync with Google Calendar to prevent double bookings and ensure seamless scheduling.",
   },
   {
-    img: "/assets/Images/Key33.jpeg",
+    img: "/assets/images/Key33.jpeg",
     alt: "Secure Communication",
     title: "03. Stop Data Leaks Forever",
     metaText: "Secure Platform",
@@ -83,7 +83,7 @@ const PROCESS_ITEMS = [
     desc: "Protect sensitive conversations with encrypted chats and controlled document access.",
   },
   {
-    img: "/assets/Images/Key34.jpg",
+    img: "/assets/images/Key34.jpg",
     alt: "Reduce No Shows",
     title: "04. Cut No-Shows by 75%",
     metaText: "Auto Reminders",
@@ -91,7 +91,7 @@ const PROCESS_ITEMS = [
     desc: "Send automated reminders via SMS and email to ensure participants never miss a meeting.",
   },
   {
-    img: "/assets/Images/Key35.jpeg",
+    img: "/assets/images/Key35.jpeg",
     alt: "Professional Experience",
     title: "05. Project Professionalism",
     metaText: "Branded Experience",
@@ -99,7 +99,7 @@ const PROCESS_ITEMS = [
     desc: "Deliver a premium experience with branded meeting rooms and a sleek chat interface.",
   },
   {
-    img: "/assets/Images/Key36.jpeg",
+    img: "/assets/images/Key36.jpeg",
     alt: "Centralized Communication",
     title: "06. Kill Shadow IT",
     metaText: "Centralized System",

@@ -64,7 +64,7 @@ const SERVICES = [
       "Searchable Records",
       "Ownership Tracking",
     ],
-    image: "/assets/Images/Asset7.jpeg",
+    image: "/assets/images/Asset7.jpeg",
     itemClass: "pb-40",
   },
   {
@@ -73,7 +73,7 @@ const SERVICES = [
       "Access complete lending history instantly without relying on manual logs or scattered spreadsheets.",
     listLeft: ["Lending History Tracking", "Audit Trail Records", "Usage Logs"],
     listRight: ["Instant Reports", "Time-Based Tracking", "Exportable Data"],
-    image: "/assets/Images/Asset8.jpeg",
+    image: "/assets/images/Asset8.jpeg",
     itemClass: "pb-40",
   },
   {
@@ -90,7 +90,7 @@ const SERVICES = [
       "Condition Monitoring",
       "Lifecycle Management",
     ],
-    image: "/assets/Images/Asset9.jpeg",
+    image: "/assets/images/Asset9.jpeg",
     itemClass: "pb-40",
   },
   {
@@ -107,7 +107,7 @@ const SERVICES = [
       "Return Tracking",
       "Accountability Reports",
     ],
-    image: "/assets/Images/Asset10.jpeg",
+    image: "/assets/images/Asset10.jpeg",
     itemClass: "pb-50",
   },
   {
@@ -124,7 +124,7 @@ const SERVICES = [
       "Usage Permissions",
       "Activity Monitoring",
     ],
-    image: "/assets/Images/Asset11.jpeg",
+    image: "/assets/images/Asset11.jpeg",
     itemClass: "pb-40",
   },
   {
@@ -137,7 +137,7 @@ const SERVICES = [
       "Department Allocation",
       "Performance Insights",
     ],
-    image: "/assets/Images/Asset12.jpeg",
+    image: "/assets/images/Asset12.jpeg",
     itemClass: "pb-40",
   },
 ];
