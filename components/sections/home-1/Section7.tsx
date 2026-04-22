@@ -86,7 +86,7 @@ export default function Section7() {
                     <div className="anim-zoomin">
                       <Image
                         className="zoom-blur-image img-cover"
-                        src="/assets/Images/Why.jpeg"
+                        src="/assets/Images/Why.jpg"
                         alt="orisa"
                         width={600}
                         height={400}
