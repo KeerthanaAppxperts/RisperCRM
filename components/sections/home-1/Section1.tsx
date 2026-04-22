@@ -165,37 +165,66 @@ export default function Section1() {
                     </span>
                   </h2>
                   <div
-                    className="at-hero-btn d-flex flex-wrap gap-2 pt-20 at_fade_anim"
+                    className="at-hero-btn at_fade_anim"
                     data-delay="0.5"
                     data-fade-from="bottom"
                   >
-                    <Link
-                      className="at-btn bg-white rounded-0 text-dark"
-                      // href="/portfolio-1"
-                      href="/contact-1"
-                    >
-                      <span>
-                        {/* <span className="text-1">Explore All Work</span>
-                        <span className="text-2">Explore All Work</span> */}
-                        <span className="text-1">Book Demo</span>
-                        <span className="text-2">Book Demo</span>
-                      </span>
-                      <i>
-                        <ArrowIcon />
-                      </i>
-                    </Link>
-                    {/* <Link
-                      className="at-btn at-btn-border-white text-white rounded-0"
-                      href="/contact-1"
-                    >
-                      <span>
-                        <span className="text-1">Get a free quote</span>
-                        <span className="text-2">Get a free quote</span>
-                      </span>
-                      <i>
-                        <ArrowIcon />
-                      </i>
-                    </Link> */}
+                    {/* 📱 Mobile Flex Layout */}
+                    <div className="d-flex d-lg-none align-items-stretch gap-2">
+                      {/* 🔘 Book Demo */}
+                      <div className="w-50">
+                        <Link
+                          className="at-btn bg-white rounded-0 text-dark w-100 text-center h-60 d-flex align-items-center justify-content-center"
+                          href="/contact-1"
+                        >
+                          <span>
+                            <span className="text-1">
+                              Book Demo
+                            </span>
+                            <span className="text-2">
+                              Book
+                              Demo
+                            </span>
+                          </span>
+                        </Link>
+                      </div>
+
+                      {/* 🎬 Video */}
+                      <div className="w-50 position-relative">
+                        <Link
+                          href="https://youtu.be/CWmvoOtbytA?si=TPO3A1a4yNx-dqbN"
+                          target="_blank"
+                        >
+                          <Image
+                            src="/assets/images/youtube.jpg"
+                            alt="How we work"
+                            width={200}
+                            height={120}
+                            className="w-100 h-100 object-fit-cover rounded-2"
+                          />
+
+                          <div className="video-play-btn small">
+                            <span className="triangle"></span>
+                          </div>
+                        </Link>
+                      </div>
+                    </div>
+
+                    {/* 💻 Desktop Button (unchanged) */}
+                    <div className="d-none d-lg-flex flex-wrap gap-2 pt-20">
+                      <Link
+                        className="at-btn bg-white rounded-0 text-dark"
+                        href="/contact-1"
+                      >
+                        <span>
+                          <span className="text-1">Book Demo</span>
+                          <span className="text-2">Book Demo</span>
+                        </span>
+                        <i>
+                          <ArrowIcon />
+                        </i>
+                      </Link>
+                    </div>
                   </div>
                 </div>
               </div>
