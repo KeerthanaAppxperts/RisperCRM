@@ -55,6 +55,36 @@ export default function Section1() {
               }}
             />
           </div>
+          <div className="floating-flags">
+            <Image
+              src="/assets/images/Flag1.jpeg"
+              alt="flag1"
+              width={40}
+              height={25}
+              className="flag flag-1"
+            />
+            <Image
+              src="/assets/images/Flag2.jpeg"
+              alt="flag2"
+              width={40}
+              height={25}
+              className="flag flag-2"
+            />
+            <Image
+              src="/assets/images/Flag3.jpeg"
+              alt="flag3"
+              width={40}
+              height={25}
+              className="flag flag-3"
+            />
+            <Image
+              src="/assets/images/Flag4.jpeg"
+              alt="flag4"
+              width={40}
+              height={25}
+              className="flag flag-4"
+            />
+          </div>
           <div className="container p-relative">
             <div className="p-absolute bottom-100 start-0 ms-5 mb-100 d-none d-lg-block">
               <a

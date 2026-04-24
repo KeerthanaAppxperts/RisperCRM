@@ -1069,6 +1069,63 @@ body {
   font-family: var(--at-ff-body);
 }
 
+/* 🔵 Hero background */
+.hero-bg {
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+}
+
+/* 🌍 Floating Flags Container */
+.floating-flags {
+  position: absolute;
+  inset: 0;
+  z-index: 2;
+  pointer-events: none;
+}
+
+/* 🏁 Flags */
+.flag {
+  position: absolute;
+  width: 80px;
+  height: auto;
+  animation: floatAnim 6s ease-in-out infinite;
+  border-radius: 20px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.25);
+}
+
+/* 📍 Positions */
+.flag-1 {
+  top: 11%;
+  left: 7%;
+  animation-delay: 0s;
+}
+
+.flag-2 {
+  top: 35%;
+  right: 10%;
+  animation-delay: 1s;
+}
+
+.flag-3 {
+  bottom: 35%;
+  left: 10%;
+  animation-delay: 2s;
+}
+
+.flag-4 {
+  top: 10%;
+  right: 30%;
+  animation-delay: 3s;
+}
+
+/* 🌊 Floating Animation */
+@keyframes floatAnim {
+  0% { transform: translateY(0px); }
+  50% { transform: translateY(-18px); }
+  100% { transform: translateY(0px); }
+}
+
 .video-play-btn {
   position: absolute;
   top: 50%;
