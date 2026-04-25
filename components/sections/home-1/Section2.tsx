@@ -16,8 +16,23 @@ const AVATARS = [
     { src: "/assets/imgs/template/avatar/avatar-5.webp", alt: "orisa", zClass: "z-5" },
 ] as const;
 
+const statsTop = [
+  { value: "> 25 %", label: "Improved Revenue" },
+  { value: "> 8 Hrs", label: "Saved CEO's Time" },
+  { value: "> 90 %", label: "Client Retention" },
+  { value: "100 %", label: "Stress Free Operations" },
+];
+
+const statsBottom = [
+  { value: "99 %", label: "Tasks Completed On Time" },
+  { value: "> 12 Hrs", label: "Saved Time / Week" },
+  { value: "90 %", label: "Docs Collected on time" },
+  { value: "> 40 %", label: "Staff Productivity Improved" },
+];
+
 export default function Section2() {
-    return (
+  return (
+    <>
       <section className="at-about-area pt-100">
         <div className="container">
           <div className="row align-items-end">
@@ -228,5 +243,53 @@ export default function Section2() {
           </div>
         </div>
       </section>
-    );
+      <section className="py-5" style={{ backgroundColor: "#ffffff" }}>
+        <div className="container text-center">
+          {/* TITLE */}
+          <h2 className="fw-semibold mb-5" style={{ fontSize: "2rem" }}>
+            What Our Clients Says
+          </h2>
+
+          {/* TOP STATS - 4 COLUMNS */}
+          <div className="row g-0">
+            {statsTop.map((item, index) => (
+              <div
+                key={index}
+                className={`col-3 py-4 ${
+                  index !== statsTop.length - 1
+                    ? "border-end border-secondary"
+                    : ""
+                }`}
+              >
+                <h3 className="fw-bold fs-3">{item.value}</h3>
+                <p className="text-muted mt-2 mb-0">{item.label}</p>
+              </div>
+            ))}
+          </div>
+
+          {/* TITLE */}
+          <h2 className="fw-semibold mt-55 mb-5" style={{ fontSize: "2rem" }}>
+            What Our Client's Staff Says
+          </h2>
+
+          {/* BOTTOM STATS - 4 COLUMNS */}
+          <div className="row g-0">
+            {statsBottom.map((item, index) => (
+              <div
+                key={index}
+                className={`col-3 py-4 ${
+                  index !== statsBottom.length - 1
+                    ? "border-end border-secondary"
+                    : ""
+                }`}
+              >
+                <h3 className="fw-bold fs-3">{item.value}</h3>
+                <p className="text-muted mt-2 mb-0">{item.label}</p>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+    </>
+  );
 }
